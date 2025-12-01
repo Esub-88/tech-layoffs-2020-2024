@@ -85,3 +85,18 @@ The goal was to practice the full analytics pipeline: importing raw data, cleani
 SQL Scripts:
 Review cleaning.sql and analysis.sql directly in this repo
 Scripts run on SQL Server Express edition
+
+# Repository Structure 
+- dashboards
+  - Global Tech Layoffs Dashboard (2020-2024).pbix
+  - Global Tech Layoffs Dashboard (2020-2024).pdf
+  - Tech Layoff Dashboard.png
+
+- data
+  - layoffs_clean_deduped.csv
+
+- sql
+  - analysis.sql
+  - cleaning.sql
+
+- README.md
