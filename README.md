@@ -1,6 +1,6 @@
 # End-to-End Data Analytics Project Using SQL Server & Power BI
 
-![Dashboard Screenshot](Tech%20Layoff%20Dashboard.png)
+![Dashboard Screenshot](dashboards/Tech%20Layoff%20Dashboard.png)
 
 This project analyzes **global tech layoffs between 2020–2024**, using SQL Server for data cleaning and transformation and Power BI for interactive visualization.  
 The goal was to practice the full analytics pipeline: importing raw data, cleaning and modeling it, performing structured analysis, and building a clear dashboard that communicates key insights.
